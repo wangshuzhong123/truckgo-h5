@@ -1,0 +1,7 @@
+{
+    "url":"http://test.truckego.com/",
+    
+    "test_url":"http://test.truckego.com/",
+    "dev_url":"http://dev.truckego.com/",
+    "local_url":"http://localhost:8080/"  
+}
